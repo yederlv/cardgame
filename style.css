@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 50px;
+  }
+  
+  button {
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  
+  .message {
+    font-size: 1.2em;
+    color: white;
+    background-color: #007bff;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  
+  #play-btn {
+    margin-bottom: 20px;
+  }
+  
+  #challenge {
+    font-size: 24px;
+  }
